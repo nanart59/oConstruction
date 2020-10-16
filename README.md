@@ -1,2 +1,2 @@
-# oConstruction
-Put your Dotclear blog in maintenance
+# onConstruction
+Put your Dotclear blog in maintenance mode
