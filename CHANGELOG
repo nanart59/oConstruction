@@ -1,0 +1,51 @@
+Change log
+**********
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## information: this module work on:
+	### Dotclear tests
+		#### Dotclear versions & php versions see forum -> "Versions Dotclear & versions php", https://forum.dotclear.org/viewtopic.php?pid=344999
+	### php versions tests :
+		#### php 5.6.40
+		#### php 
+	### Dotclear upload & information:
+	### Dotclear support (fr): 
+	### Github upload & support: https://github.com/nanart59/onConstruction
+
+## [Unreleased]
+		- add
+			* possibility to create a specific home page
+			* "visuals" messages and indicators on the administration page indicating that the blog is in maintenance mode
+		- tests validity and functions with others plugins
+			* construction
+			* stacker
+			* private
+			* homePageMode2
+			* ContactMe
+			* notifyMe
+		
+## this module onConstruction
+====================================
+
+
+## [0.1] - Nan'Art - 2020-09 not published
+	### Added
+
+	### Changed
+
+	### Removed
+
+
+	### fixed
+
+
+## old module Construction
+===================================================
+1.1 - Construction - last update: 2010/07/26
+	* Name: "Construction",
+	* Description "Put your blog in construction",
+	* Author "Osku and contributors",
+	* Version  '1.1',
+	* Permissions 'admin',
+	* Priority 2000
